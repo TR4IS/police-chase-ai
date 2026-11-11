@@ -1,0 +1,19 @@
+Police voice lines, cut from recordings on Freesound. All are CC0 (public domain).
+
+this_is_the_police     spenseriv      "This is the police. we have the place surrounded"  https://freesound.org/people/spenseriv/sounds/165341/
+pull_over              conleec        "MISC_Police_PA_Officer_Speaking_001"               https://freesound.org/people/conleec/sounds/159749/
+pull_over_side         conleec        same recording
+pull_over_now          conleec        same recording
+move_vehicle_over      conleec        same recording
+pull_it_over           conleec        same recording
+freeze                 conleec        "MISC_Police_Siren_In_Stop_Officer_001"             https://freesound.org/people/conleec/sounds/159755/
+under_arrest           riippumattog   "you are under arrest"                              https://freesound.org/people/riippumattog/sounds/823506/
+placed_under_arrest    tekgnosis      "Police"                                            https://freesound.org/people/tekgnosis/sounds/144702/
+hands_on_head          tekgnosis      same recording
+see_those_hands        cejordi84      "Let's See Those Hands"                             https://freesound.org/people/cejordi84/sounds/217232/
+radio_pull_him_over    dragonboi50120 "Cops On Radio"                                     https://freesound.org/people/dragonboi50120/sounds/592684/
+radio_all_units        bluelinevibes  "Police Priority Traffic Dispatch"                  https://freesound.org/people/bluelinevibes/sounds/752406/
+radio_on_the_road      -Andreas       "Police Chatter"                                    https://freesound.org/people/-Andreas/sounds/648463/
+radio_on_that_car      monti334       "TwoFortySixBase.wav"                               https://freesound.org/people/monti334/sounds/638265/
+radio_beep             SoundBiterSFX  "Walkie Talkie Beep"                                https://freesound.org/people/SoundBiterSFX/sounds/732209/
+rotor                  qubodup        "Helicopter Loop.flac"                              https://freesound.org/people/qubodup/sounds/187678/

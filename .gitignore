@@ -21,3 +21,6 @@ logs/
 *.bak*
 .DS_Store
 Thumbs.db
+
+# the track's own files belong to its author
+for-friend/
